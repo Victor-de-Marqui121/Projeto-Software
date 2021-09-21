@@ -10,5 +10,5 @@
   
 <figure> 
   <img src="https://i.pinimg.com/originals/e5/8e/79/e58e794fd1acb2a41e57cbccd1a53111.gif" alt="Hora do Duelo Prof <3">  
-  <figcaption><br><a href="https://www.youtube.com/watch?v=y3REUmMsvZ4&ab_channel=Pedroviski">É HORA DO DUELO!!!!!!<a/><figcaption/>
+  <figcaption><br><a href="https://www.youtube.com/watch?v=Akzba3ubOmI&ab_channel=Malungados">É HORA DO DUELO!!!!!!<a/><figcaption/>
 <figure/>
