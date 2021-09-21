@@ -4,7 +4,7 @@
 ### <b>NOME<b/>: Guilherme Rodrigues Santos  | <b>TIA<b/>: 32012209
 ### <u><b>NOME<b/>: <i> Kenny Tanaka<i/>                | <i>TIA: 32087209<i/><u/>
 
-<p>              ▄▀▄     ▄▀▄ <p/>
+<p>             ▄▀▄     ▄▀▄ <p/>
 <p>             ▄█░░▀▀▀▀▀░░█▄<p/>
 <p>         ▄▄  █░░░░░░░░░░░█  ▄▄<p/>
 <p>       █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█ <p/>
